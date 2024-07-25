@@ -52,5 +52,5 @@ Open your web browser and navigate to **http://localhost/Car_Rental_Management.*
 ## Contact
 For any inquiries or issues, please contact:
 
-Email: **your-email@example.com**
+Email: **yazhinirajtamil@gmail.com**
 GitHub: **falconharp21**
